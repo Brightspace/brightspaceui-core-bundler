@@ -1,3 +1,7 @@
+# Build folders
+build/
+build-bundle/
+
 # Logs
 logs
 *.log
