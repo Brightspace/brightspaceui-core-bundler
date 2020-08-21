@@ -4,7 +4,7 @@
   "description": "A system to build BrightspaceUI/core components for browser consumption",
   "scripts": {
     "build": "rimraf build && rollup -c ./rollup.config.js",
-    "build:bundle": "rimraf build-bundled && rollup -c ./rollup-bundled.config.js"
+    "build:bundle": "rimraf build-bundle && rollup -c ./rollup-bundle.config.js"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,6 @@
   },
   "devDependencies": {
     "@open-wc/building-rollup": "^1.7.1",
-    "@webcomponents/webcomponentsjs": "^2.4.4",
     "rimraf": "^3.0.2",
     "rollup": "^2.26.4",
     "rollup-plugin-node-resolve": "^5.2.0"

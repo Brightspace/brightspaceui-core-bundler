@@ -1,6 +1,6 @@
 # Build folders
 build/
-build-bundled/
+build-bundle/
 
 # Package Lock
 package-lock.json
