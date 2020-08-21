@@ -14,7 +14,7 @@
   "license": "Apache-2.0",
   "homepage": "https://github.com/Brightspace/brightspaceui-core-bundler#readme",
   "dependencies": {
-    "@brightspace-ui/core": "^1.72.2"
+    "@brightspace-ui/core": "^1"
   },
   "devDependencies": {
     "@open-wc/building-rollup": "^1.7.1",
