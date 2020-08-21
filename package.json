@@ -20,6 +20,7 @@
     "@open-wc/building-rollup": "^1.7.1",
     "rimraf": "^3.0.2",
     "rollup": "^2.26.4",
-    "rollup-plugin-node-resolve": "^5.2.0"
+    "rollup-plugin-node-resolve": "5.1.0",
+    "rollup-plugin-workbox": "5.1.0"
   }
 }
