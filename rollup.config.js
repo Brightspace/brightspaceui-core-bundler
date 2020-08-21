@@ -1,6 +1,6 @@
 import { createBasicConfig } from '@open-wc/building-rollup';
 import merge from 'deepmerge';
-import resolve from 'rollup-plugin-node-resolve';
+import resolve from '@rollup/plugin-node-resolve';
 
 const componentFiles = [
 	// Example

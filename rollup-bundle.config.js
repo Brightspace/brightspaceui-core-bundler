@@ -1,6 +1,6 @@
 import { createBasicConfig } from '@open-wc/building-rollup';
 import merge from 'deepmerge';
-import resolve from 'rollup-plugin-node-resolve';
+import resolve from '@rollup/plugin-node-resolve';
 
 const config = createBasicConfig({
 	developmentMode: false, /* forces tree-shaking, minify ON */
