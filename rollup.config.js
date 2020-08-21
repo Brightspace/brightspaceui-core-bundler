@@ -3,6 +3,7 @@ import merge from 'deepmerge';
 import resolve from 'rollup-plugin-node-resolve';
 
 const componentFiles = [
+	// Example
 	// './node_modules/@brightspace-ui/core/components/button/button.js',
 	// './node_modules/@brightspace-ui/core/components/loading-spinner/loading-spinner.js',
 ];
